@@ -1,10 +1,9 @@
 # FMCW-radar :smile:
-Some simple code about FMCW radar
+Some simple code about FMCW radar. 
+  
 README
 ===========================
-
-该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
-
+ `FMCW radar` `Discrete Fourier Transform` `Discrete Fourier Transform`
 ****
 
 |作者|果冻虾仁|
@@ -150,7 +149,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
 
 |#|语法|效果|
-|---|---|----
+|---|---|---
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][code-past]`|![][code-past]
 
@@ -166,7 +165,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |#|语法|效果|
 |---|----|-----|
 |1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
-|2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
+|2|`[我的知乎][zhihu] `|[哔哩哔哩][bilibili] |
 
 语法2由两部分组成：
 - 第一部分使用两个中括号，[ ]里的标识符（本例中zhihu），可以是数字，字母等的组合，标识符上下对应就行了（**姑且称之为URL标识符**）
@@ -178,7 +177,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ### 链接本仓库里的URL
 
 |语法|效果|
-|----|-----|
+|----|----------|
 |`[我的简介](/example/profile.md)`|[我的简介](/example/profile.md)|
 |`[example](./example)`|[example](./example)|
 
